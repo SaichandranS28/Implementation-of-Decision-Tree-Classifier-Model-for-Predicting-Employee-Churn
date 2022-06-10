@@ -52,14 +52,17 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 data.head()
 ![decision tree classifier model](/1.DataHead.PNG)
 
+
 data.info()
 ![decision tree classifier model](/2.DataInfo.PNG)
+
 
 valuecount
 ![decision tree classifier model](/3.ValueCount.PNG)
 
 LabelEncoder()
 ![decision tree classifier model](/4.LabelEncoder.PNG)
+
 
 Accuracy
 ![decision tree classifier model](/5.Accuracy.PNG)
